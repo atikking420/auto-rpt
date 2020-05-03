@@ -21,3 +21,6 @@ git clone https://github.com/atikking420/auto-rpt.git
 cd auto-rpt
 
 
+unzip Report.zip
+
+python2 Report.py
